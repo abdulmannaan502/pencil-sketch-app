@@ -5,7 +5,6 @@ This file is ready for GitHub and matches the instructions/code from the origina
 # Image to Pencil Sketch Web App
 
 A simple and quick web app that converts images to pencil sketches using Streamlit, OpenCV, and Python.
-https://github.com/abdulmannaan502/pencil-sketch-app/blob/main/Image.png
 
 ## Features
 

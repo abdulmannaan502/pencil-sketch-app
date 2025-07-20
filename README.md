@@ -1,4 +1,4 @@
-# README.md for Pencil Sketch App
+# Pencil Sketch App
 
 This file is ready for GitHub and matches the instructions/code from the original version (Streamlit + OpenCV, simple pencil effect).
 
